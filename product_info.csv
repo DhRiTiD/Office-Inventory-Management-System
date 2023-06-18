@@ -1,5 +1,5 @@
 Serial num,Product_name,Stock,Reorder_level,Order
--, -, -, -, -
+5, -, -, -, -
 1,Chalk,6,10,4
 2,papers,4,15,11
 3,Permanent Marker [black],10,10,0
